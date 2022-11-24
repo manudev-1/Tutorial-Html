@@ -9,3 +9,6 @@
     padding: 0;
     margin: 0;
 }
+.desc{
+    text-shadow: 0 0 20px white;
+}
